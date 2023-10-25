@@ -4,4 +4,5 @@ function fixBug(): void {
     console.log('abed');
     
 
+    console.log("ibaa")
 }
